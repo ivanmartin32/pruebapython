@@ -1,5 +1,5 @@
-def saludar(nombre,apellido):
+def saludar(nombre,apellido, edad):
     print(f'hola {nombre} {apellido}')
 
 
-saludar('ivan','martin')
+saludar('ivan','martin', 32)
